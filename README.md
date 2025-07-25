@@ -16,13 +16,9 @@
 | 11   | Lancesoft Middle East | PySpark, Airflow, CDP, DevOps, Python                  | 4+                 | - Build scalable pipelines<br>- Optimize ETL workflows<br>- Ensure governance<br>- Support AI/ML use cases<br>- Automate deployments | Remote               | ₹14–16 LPA                |
 
 
-# 📘 Top 5 Tools for Data Engineering Jobs & Expectations
-
-This document outlines the top tools to learn for data engineering roles, based on job descriptions from leading companies. It also details what companies expect from candidates for each tool and what to focus on while learning.
-
 ---
 
-## 🔝 Top 5 Tools to Learn (Ranked)
+# 🔝 Top 5 Tools to Learn (Ranked)
 
 | Rank | Tool / Technology | Why It’s Important |
 |------|-------------------|--------------------|
@@ -34,7 +30,7 @@ This document outlines the top tools to learn for data engineering roles, based 
 
 ---
 
-## 🏢 Expectations Across Companies
+# 🏢 Expectations Across Companies
 
 ### 1️⃣ SQL  (**Used by:** Deloitte, United Airlines, Oracle, BlackRock, Tredence, Accenture)
 **Expectations:**
