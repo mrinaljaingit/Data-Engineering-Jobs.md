@@ -115,3 +115,53 @@
 ---
 
 *Prepared for structured learning and interview readiness in data engineering.*
+
+
+# 📑 Shortlist of Companies Hiring Data Engineers (3–5 yrs Exp, ₹16–20 LPA)
+
+Below is a curated list of organizations actively recruiting mid-level data engineers in India, offering compensation in—or overlapping—the ₹16–20 LPA band.
+
+| Company                 | Role / Team                    | Exp. Range | Salary Range (LPA) | Key Tech Focus                              |
+|-------------------------|--------------------------------|------------|--------------------|----------------------------------------------|
+| Google                  | Data Engineer – Platforms      | 3–5 yrs    | 15–40              | SQL, Python, BigQuery, Data Modeling, GCP    |
+| Meta (Facebook)         | Data Engineer                  | 3–5 yrs    | 18–45              | Spark, Presto, Kafka, DBT, Distributed APIs  |
+| Microsoft               | Data Engineer                  | 3–5 yrs    | 14–35              | Azure Data Factory, Synapse, SQL, Python     |
+| Amazon Dev Centre       | Data Engineer – Data Platforms | 3–5 yrs    | 4.8–26             | EMR, Redshift, Spark, AWS Glue, Python       |
+| IBM India               | Data Engineer – Integration    | 2–5 yrs    | 5.5–25             | Python, SQL, DataStage, Cloud Pak for Data   |
+| Accenture               | Data Engineer                  | 3–5 yrs    | 8–22               | SQL, PySpark, Data Factory, GCP/Azure        |
+| Xohani Solutions        | Azure Data Engineer            | 4–5 yrs    | 15–21              | Azure Data Factory, Kubernetes, SQL, Python  |
+| Lorvensoft Technology   | Data Engineer                  | 5 yrs      | 11–20              | PySpark, Python, SQL, Data Modeling          |
+| Risk Resources          | Data Engineer                  | 2–5 yrs    | 12–22              | SQL, Python, ETL Frameworks, DBT             |
+| Recro                   | Data Engineer                  | 5 yrs      | 20–25              | SQL, Python, Cloud Pipelines, CI/CD          |
+
+_Sources:_  
+– Mid-level salary benchmarks in India (3–5 yrs exp): ₹10–20 LPA  
+– Google, Microsoft, Amazon, Meta compensation ranges  
+– IBM India & Amazon estimates (AmbitionBox)  
+– Active openings & salary bands (Wellfound)  
+– Naukri top hirers list (Accenture, Oracle, EY, PwC)  
+
+---
+
+## 🎯 What to Focus On
+
+- **SQL & Data Modeling**  
+  Master complex queries (joins, window functions) and dimensional modeling (star/snowflake).
+
+- **Programming & Frameworks**  
+  Solid Python skills (pandas, PySpark) and familiarity with Spark’s RDD/DataFrame APIs.
+
+- **Cloud Ecosystems**  
+  Hands-on with GCP (BigQuery, Dataflow) or AWS/Azure data services (Glue, Data Factory, Synapse).
+
+- **Orchestration & CI/CD**  
+  Build and monitor pipelines using Airflow/Data Factory; implement automated tests and deployment.
+
+- **Streaming & Real-Time**  
+  Exposure to Kafka/Flink for event-driven processing, and understanding partitioning/rebalance strategies.
+
+- **Documentation & Collaboration**  
+  Translate business requirements to BRDs/FSDs; maintain clear data lineage and work cross-functionally.
+
+Tailor your resume and interview prep around these areas to align with what these top employers seek. Good luck!  
+
