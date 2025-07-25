@@ -16,3 +16,111 @@
 | 11   | Lancesoft Middle East | PySpark, Airflow, CDP, DevOps, Python                  | 4+                 | - Build scalable pipelines<br>- Optimize ETL workflows<br>- Ensure governance<br>- Support AI/ML use cases<br>- Automate deployments | Remote               | ₹14–16 LPA                |
 
 
+# 📘 Top 5 Tools for Data Engineering Jobs & Expectations
+
+This document outlines the top tools to learn for data engineering roles, based on job descriptions from leading companies. It also details what companies expect from candidates for each tool and what to focus on while learning.
+
+---
+
+## 🔝 Top 5 Tools to Learn (Ranked)
+
+| Rank | Tool / Technology | Why It’s Important |
+|------|-------------------|--------------------|
+| 1️⃣   | **SQL**            | Core for querying, transforming, and validating data across all roles. |
+| 2️⃣   | **Python**         | Widely used for ETL, data manipulation, and integration with big data tools. |
+| 3️⃣   | **PySpark / Spark**| Essential for distributed data processing and scalable pipelines. |
+| 4️⃣   | **Airflow**        | Popular orchestration tool for managing workflows and scheduling jobs. |
+| 5️⃣   | **Databricks**     | Cloud-native platform for big data analytics, Spark jobs, and ML integration. |
+
+---
+
+## 🏢 Expectations Across Companies
+
+### 1️⃣ SQL
+**Used by:** Deloitte, United Airlines, Oracle, BlackRock, Tredence, Accenture  
+**Expectations:**
+- Write complex queries (joins, window functions, aggregations)
+- Optimize performance and validate data quality
+- Translate business logic into SQL transformations  
+**Focus Areas:**
+- Query optimization
+- Data modeling (star/snowflake schemas)
+- Integration with BI tools and ETL pipelines
+
+---
+
+### 2️⃣ Python
+**Used by:** DataKryptonAI, BlackRock, Lancesoft, Tredence, Oracle  
+**Expectations:**
+- Build ETL/ELT pipelines
+- Automate data workflows and CI/CD
+- Collaborate with analysts and data scientists  
+**Focus Areas:**
+- pandas, PySpark, DBT integration
+- Writing modular, testable code
+- Performance tuning and error handling
+
+---
+
+### 3️⃣ PySpark / Spark
+**Used by:** Salesforce, DataKryptonAI, Tredence, Lancesoft  
+**Expectations:**
+- Handle large-scale data transformations
+- Build batch and streaming pipelines
+- Optimize Spark jobs for performance  
+**Focus Areas:**
+- RDDs vs DataFrames
+- Caching, partitioning, and AQE
+- Integration with cloud platforms (Databricks, EMR)
+
+---
+
+### 4️⃣ Airflow
+**Used by:** BlackRock, Lancesoft, DataKryptonAI  
+**Expectations:**
+- Schedule and monitor data workflows
+- Handle dependencies and retries
+- Integrate with cloud and CI/CD tools  
+**Focus Areas:**
+- DAG creation and parameterization
+- Sensor and operator customization
+- Logging and alerting mechanisms
+
+---
+
+### 5️⃣ Databricks
+**Used by:** DataKryptonAI, Oracle (indirectly), Salesforce  
+**Expectations:**
+- Run Spark jobs and notebooks
+- Use Delta Lake for data reliability
+- Collaborate across teams using shared workspaces  
+**Focus Areas:**
+- Cluster configuration and job scheduling
+- Delta Lake features (time travel, schema enforcement)
+- ML integration and notebook automation
+
+---
+
+## 🎯 Learning Focus Areas
+
+### 🔧 Technical Skills
+- Master SQL with real-world datasets (joins, aggregations, window functions)
+- Build ETL pipelines using Python and PySpark
+- Practice orchestration with Airflow (build DAGs, monitor jobs)
+- Explore Databricks notebooks and Delta Lake features
+- Learn data modeling: star/snowflake schemas, SCDs, CDC
+
+### 📊 Business & Communication
+- Translate business requirements into technical specs
+- Document data lineage and transformation logic
+- Present insights using Tableau/Power BI
+- Collaborate with cross-functional teams (analysts, product managers)
+
+### ☁️ Cloud & DevOps
+- Get hands-on with GCP, AWS, or Azure (especially BigQuery, S3, Lambda)
+- Learn CI/CD basics with GitHub Actions or Jenkins
+- Understand data governance and quality tools (Great Expectations, Soda)
+
+---
+
+*Prepared for structured learning and interview readiness in data engineering.*
