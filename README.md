@@ -36,8 +36,7 @@ This document outlines the top tools to learn for data engineering roles, based 
 
 ## 🏢 Expectations Across Companies
 
-### 1️⃣ SQL
-**Used by:** Deloitte, United Airlines, Oracle, BlackRock, Tredence, Accenture  
+### 1️⃣ SQL  (**Used by:** Deloitte, United Airlines, Oracle, BlackRock, Tredence, Accenture)
 **Expectations:**
 - Write complex queries (joins, window functions, aggregations)
 - Optimize performance and validate data quality
@@ -49,8 +48,7 @@ This document outlines the top tools to learn for data engineering roles, based 
 
 ---
 
-### 2️⃣ Python
-**Used by:** DataKryptonAI, BlackRock, Lancesoft, Tredence, Oracle  
+### 2️⃣ Python  (**Used by:** DataKryptonAI, BlackRock, Lancesoft, Tredence, Oracle)  
 **Expectations:**
 - Build ETL/ELT pipelines
 - Automate data workflows and CI/CD
@@ -62,8 +60,7 @@ This document outlines the top tools to learn for data engineering roles, based 
 
 ---
 
-### 3️⃣ PySpark / Spark
-**Used by:** Salesforce, DataKryptonAI, Tredence, Lancesoft  
+### 3️⃣ PySpark / Spark  (**Used by:** Salesforce, DataKryptonAI, Tredence, Lancesoft)
 **Expectations:**
 - Handle large-scale data transformations
 - Build batch and streaming pipelines
@@ -75,8 +72,7 @@ This document outlines the top tools to learn for data engineering roles, based 
 
 ---
 
-### 4️⃣ Airflow
-**Used by:** BlackRock, Lancesoft, DataKryptonAI  
+### 4️⃣ Airflow  (**Used by:** BlackRock, Lancesoft, DataKryptonAI)
 **Expectations:**
 - Schedule and monitor data workflows
 - Handle dependencies and retries
@@ -88,8 +84,7 @@ This document outlines the top tools to learn for data engineering roles, based 
 
 ---
 
-### 5️⃣ Databricks
-**Used by:** DataKryptonAI, Oracle (indirectly), Salesforce  
+### 5️⃣ Databricks  (**Used by:** DataKryptonAI, Oracle (indirectly), Salesforce)
 **Expectations:**
 - Run Spark jobs and notebooks
 - Use Delta Lake for data reliability
