@@ -1,5 +1,7 @@
 ### 📋 Data Engineering Jobs Summary
 
+<div style="overflow-x: auto;">
+
 | S.No | Company Name       | Top 5 Required Skills                                      | Experience (Years) | Responsibilities Summary                                                                 | Location             | Estimated Pay Range (INR) |
 |------|--------------------|------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------|----------------------|---------------------------|
 | 1    | Deloitte           | SQL, Data Warehousing, Basel III, Data Migration, Profiling | 4+                 | - Support Basel III data migration<br>- Validate and reconcile risk data<br>- Perform profiling<br>- Collaborate with SMEs<br>- Prepare documentation | Chennai              | ₹12–14 LPA                |
@@ -13,3 +15,5 @@
 | 9    | Lancesoft ME       | PySpark, Airflow, CDP, DevOps, Python                      | 4+                 | - Build scalable pipelines<br>- Optimize ETL workflows<br>- Ensure governance<br>- Support AI/ML use cases<br>- Automate deployments | Remote               | ₹14–16 LPA                |
 | 10   | Tredence Inc.      | PySpark, SQL, GCP, Data Modeling, Git                      | 1–2                | - Develop pipelines on GCP<br>- Write efficient SQL<br>- Apply warehouse principles<br>- Collaborate with clients<br>- Support agile delivery | Multiple (India)     | ₹10–12 LPA                |
 | 11   | Lancesoft Middle East | PySpark, Airflow, CDP, DevOps, Python                  | 4+                 | - Build scalable pipelines<br>- Optimize ETL workflows<br>- Ensure governance<br>- Support AI/ML use cases<br>- Automate deployments | Remote               | ₹14–16 LPA                |
+
+</div>
