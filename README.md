@@ -1,6 +1,5 @@
 ### 📋 Data Engineering Jobs Summary
 
-<div style="overflow-x: auto;">
 
 | S.No | Company Name       | Top 5 Required Skills                                      | Experience (Years) | Responsibilities Summary                                                                 | Location             | Estimated Pay Range (INR) |
 |------|--------------------|------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------|----------------------|---------------------------|
@@ -16,4 +15,4 @@
 | 10   | Tredence Inc.      | PySpark, SQL, GCP, Data Modeling, Git                      | 1–2                | - Develop pipelines on GCP<br>- Write efficient SQL<br>- Apply warehouse principles<br>- Collaborate with clients<br>- Support agile delivery | Multiple (India)     | ₹10–12 LPA                |
 | 11   | Lancesoft Middle East | PySpark, Airflow, CDP, DevOps, Python                  | 4+                 | - Build scalable pipelines<br>- Optimize ETL workflows<br>- Ensure governance<br>- Support AI/ML use cases<br>- Automate deployments | Remote               | ₹14–16 LPA                |
 
-</div>
+
